@@ -1,0 +1,15 @@
+LOG FOR: test.py
+Generated: 2025-11-06T08:37:09.260Z
+File: /home/loked/Projects/ISRPO/extention/create-python-log/test.py
+
+EXECUTION OUTPUT:
+================
+STDOUT:
+Result of sum(3, 4) = 7
+Pi is equal to 3.14
+
+
+STDERR:
+Stderr recognition is working as expected
+
+EXIT CODE: 0
